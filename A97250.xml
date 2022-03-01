@@ -1,0 +1,535 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A hopefull way to cure, that horrid sinne of swearing: or an helpe to save swearers, if willing to be saved being an offer or message from him whom they so daringly and audaciously provoke. Also a curb against cursing.</title>
+            <author>Younge, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97250</idno>
+            <idno type="STC">Wing Y160B</idno>
+            <idno type="STC">ESTC R229893</idno>
+            <idno type="EEBO-CITATION">99895547</idno>
+            <idno type="PROQUEST">99895547</idno>
+            <idno type="VID">153031</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97250)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153031)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2340:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A hopefull way to cure, that horrid sinne of swearing: or an helpe to save swearers, if willing to be saved being an offer or message from him whom they so daringly and audaciously provoke. Also a curb against cursing.</title>
+                  <author>Younge, Richard.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Richard Younge.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>MH copy cropped and stained with some loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian literature --  Early works to 1800.</term>
+               <term>Swearing --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:153031:1" rendition="simple:additions"/>
+            <head>A hopefull way to <hi>Cure</hi> that horrid ſinne of SWEARING: or an <hi>helpe</hi> to ſave Swearers, if willing to be ſaved: Being an Offer or Meſſage from HIM whom they ſo daringly and audaciouſly provoke.</head>
+            <head>Alſo a Curbe againſt C<g ref="char:V">Ʋ</g>RSING.</head>
+            <p>Before you lay it by, at leſt read the <hi>Poſtſcript</hi> at the end.</p>
+            <sp>
+               <speaker>Meſſenger,</speaker>
+               <p>SIr, me thinks you Swear and Curſe as if he that made the eare could not hear, Or as if he were ne<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ther to be feared nor cared for, who for ſin caſt the Angels out of Heaven, <hi>Adam</hi> out of Paradis<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> drowned the old world, rained down fire and brimſtone upon <hi>Sodome,</hi> commanded the earth to op<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> her mouth, and ſwallow down quick <hi>Korah</hi> and his company, he who ſmote <hi>Egypt</hi> with ſo ma<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> plagues, overthrew <hi>Pharaoh</hi> and his hoſt in the Red ſea, deſtroyed great and mighty Kings, giving th<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> land for an inheritance to his people, and can as eaſily with a word of his mouth ſtrike you dead wh<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> you are blaſpheming him, and caſt you body and ſoule into hell for your odious unthankfulneſſe; Yea i<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> a mercy beyond expreſſion that he hath ſpared you ſo long.</p>
+               <p>What, becauſe you are diſpleaſed with others, will you flie in your Makers face? and tear your Savio<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Name in pieces? This is worſe then frenzie, this is to ſend challenges into Heaven, and make love to <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſtruction; conſider of it, leſt you ſwear away your part in that Blood which muſt ſave you, if ever you <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſaved; yea, take heed leſt you be plagued with a witneſſe, and that both here and hereafter, for God (w<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> cannot lie) hath threatned that his curſe ſhall never depart from the houſe of the ſwearer, as it is <hi>Za<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> 5.1. to 5. And I doubt not but you are already curſed, though you know it not; That either he hath c<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſed you in your body by ſending ſome foule diſeaſe, or in your eſtate by ſuddenly conſuming it, in your name by blemiſhing or blaſting it, or in your ſeed by not proſpering it, or in your minde <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> darkning it, or in your heart by hardning it, or in your conſcience by terrifying it, or will in your ſoul <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> everlaſtingly damning it, if you repent not. Wherefore take heed what you do before it prove too late.</p>
+               <p>Or if you regard not your ſelfe, or your own ſouls good, yet for the Kingdoms good leave your ſwearing <hi>for the Lord</hi> (as now we finde to our ſmart) <hi>hath a great controverſie with the inhabitants of the l<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> becauſe of ſwearing, Hoſ.</hi> 4.1, 2. Yea <hi>becauſe of oaths</hi> the whole <hi>land</hi> (even the three Kingdoms) no<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>mourneth,</hi> or rather lies a bleeding, and that to death, as you may ſee, <hi>Jer.</hi> 23.10. Neither object that <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are ſo accuſtomed to ſwearing that you cannot leave it, for this defence is worſe then the offence, as ta<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> an inſtance; Shall a Thiefe or Murtherer at the baralleage for his defence, that it hath been his uſe a<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> cuſtome of a long time to rob and kill, and therefore he muſt continue it: or if he doe, will not the Jud<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſo much the rather ſend him to the Gallows.</p>
+               <p>Beſides, the objection is falſe and frivolous, for were you forced to pay twelve pence for every Oath you ſwear (as the Law enjoynes) or if you were ſure to have your tongue cut out, which is too light puniſhment for this ſin, damnation being the due penaltie thereof, as the Apoſtle ſets it downe, <hi>Jam.</hi> 5.1 you both could and would leave it. Wherefore <hi>I beſeech you by the mercies of God</hi> (who hath rem<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ved ſo many evils, and conferred ſo many good things upon you, that they are beyond thought or imagi<g ref="char:EOLhyphen"/>nation) to leave it, eſpecially after this warning, which in caſe you do not, will be a ſore witneſſe, and ri<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> up in judgement againſt you another day.</p>
+            </sp>
+            <sp>
+               <speaker>Swearer.</speaker>
+               <p>
+                  <hi>Did I ſweare or curſe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <p>Very often, as all here preſent can witneſſe, and Satan alſo, who ſtands by to take notic<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reckon up, and ſet on your ſcore every Oath you utter, keeping them upon record againſt the great day <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>aſize, at which time every Oath will prove as a daggers point ſtabing your ſoule to the heart, or as ſo ma<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> weights preſſing you down to hell, <hi>Revel.</hi> 12.10. As alſo the ſearcher of hearts, who himſelfe will one da<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be <hi>a ſwift witneſſe againſt ſwearers, Mal.</hi> 3.5. For of all other ſinners <hi>the Lord will not hold him guiltle that taketh his Name in vaine,</hi> as the third Commandment tells you, <hi>Exod.</hi> 20.7.</p>
+               <p>But woe is me, it fares with common ſwearers as with perſons deſperately diſeaſed, whoſe excremen<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and filth comes from them at unawares; for as by much labour the hand is ſo hardned that it hath no ſen<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of labour, ſo their much ſwearing cauſeth ſuch a brawnie skin of ſenceleſneſſe to overſpread the hea<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> memory, and conſcience, that the ſwearer ſweareth unwittingly, and having ſworn, hath no remembranc<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of his Oath, much leſſe repentance for his ſin.</p>
+            </sp>
+            <sp>
+               <speaker>Swearer.</speaker>
+               <p>
+                  <hi>A laſſe though I did ſweare, yet I thought no harme.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <p>O foole! What Prince, hearing himſelfe abuſed to his face, by the reproachfull words <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his baſe and impotent Subject, would admit of ſuch an excuſe, that whatſoever he ſpake with his mouth yet he thought no ill in his heart? And ſhall God take this for a good anſwer, having told us before hand <hi>Deut</hi> 28.58, 59. <hi>that if we doe not feare and dread his glorious and fearfull Name, the Lord our God, he wi<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> make our plagues wonderfull, and of long continuance, and the plagues of our poſteritie.</hi> Beſides, how frequent<g ref="char:EOLhyphen"/>ly doeſt thou polute and prophane Gods Name, and thy Saviours. The Jews grievouſly ſinned in cruci<g ref="char:EOLunhyphen"/>fying the Lord of life but once, and that of ignorance, but the times are innumerable that thou doeſt it
+<pb n="2" facs="tcp:153031:2"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ery day in the yeere, every houre in the day, although thy Conſcience and the <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oly Spirit of gra<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> checkt thee for it a thouſand and a thouſand times.</p>
+               <p>Doeſt thou expect to have Chriſt thy Redeemer and Advocate; when thy Conſcience tell; thee that a haſt ſeldome remembred Him but to blaſpheme Him, and more often named Him in thy oathes and <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſes then in thy prayers.</p>
+            </sp>
+            <sp>
+               <speaker>Swearer.</speaker>
+               <p>
+                  <hi>Surely if I did ſweare, it was but faith and troth, by our lady, the maſſe, the rood, the light, this bread, by <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>croſſe of the ſilver, or the like, which is no great matter, I hope, ſo long as I ſwore not by God, nor by my Saviour.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <p>Thats your groſſe ignorance of the Scriptures, for God expreſly forbids it, and that upon <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ne of damnation, <hi>Jam.</hi> 5.12. Firſt, our Saviour Chriſt in his owne perſon forbids it, <hi>Matth.</hi> 5. 34, 35, 37. <hi>I ſay unto you, Sweare not at all, neither by Heaven, for it is Gods throne; nor by Earth, for it is his foot<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e; nor by Jeruſalem, for it is the City of the great King; neither ſhalt thou ſweare by thine head, becauſe tho<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t not make one haire white or blacke; but let your communication be Yea, Yea, Nay, Nay, for whatſoever is more <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>n theſe commeth of evill.</hi> And then by his Apoſtle, <hi>Above all things, my brethren, ſweare not, neither by Hea<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> nor by Earth, nor by any other oath, but let your yea, be yea, and your nay, nay, leſt you fall into condemnation</hi> 
+                  <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 5.12. where marke the Emphaſis, in the firſt words, <hi>Above all things ſweare not;</hi> and the great danger <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it, in the laſt word, <hi>condemnation.</hi>
+               </p>
+               <p>If the matter be light and vaine, we muſt nor ſweare at all; if ſo weighty, that we may lawfully ſwear<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> before a Magiſtrate, being called to it, then we muſt onely uſe the glorious Name of our God in a holy <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d religious manner, as you may ſee, <hi>Deut.</hi> 6.13. <hi>Iſa.</hi> 45.23. &amp; 65.16. <hi>Joſh.</hi> 23.7. <hi>Jer.</hi> 5.7. <hi>Exod.</hi> 23.13 <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d the reaſons of it are weighty, if we looke into them: for in ſwearing by any creature whatſoever, we <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e invocate that creature, and aſcribe to it divine worſhip; a lawfull oath being a kinde of invocation, <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a part of Gods worſhip: Yea, whatſoever we ſweare by, that we invocate, both as our witneſſe, ſure<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and judge, <hi>Heb.</hi> 6.16. and by conſequence deifie it, by aſcribing and communicating unto it Gods in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mmunicable attributes, as his Omnipreſence, and Omniciencie of being every where preſent, and know<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>g the ſecret thoughts and intentions of the heart, and likewiſe an omnipotency, as being Almighty i<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>roniſing, protecting, defending, and rewarding us for ſpeaking the truth, or puniſhing us if we ſpeak <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ly: All which are ſo peculiar to God, as that they can no way be communicated or aſcribed to another <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that in ſwearing by any of thoſe things, thou committeſt an high degree of groſſe Idolatry, thou ſpoile<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d robeſt God of his glory (the moſt impious kinde of theft) and in a manner dethroneſt him and place<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Idoll in his roome.</p>
+               <p>And as to ſweare by the creature makes the ſinne far more hainous, ſo the more meane and vile the <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ng is which you ſweare by (be it by my fey, by cock and pie, hares foot, by this cheeſe, and ſuch like <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ildiſh oaths, which are ſo much in uſe with the ignorant and ſuperſtitions ſwarme) the greater is your <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ne in ſwearing ſuch an oath, becauſe you aſcribe that unto theſe baſeſt of creatures, which is only pr<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r to God, namely to know your heart, and to be a diſcerner of ſecret things; why elſe ſhould you call that <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eature as a witneſſe unto your conſcience, that you ſpeake the truth and lie not, which onely belongeth <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God? And therefore the Lord calls it a forſaking of him; as marke well what he ſaith, <hi>Jer.</hi> 5.7. <hi>How <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ll I ſpare thee for this? thy children have forſaken me and ſworne by them that are no gods, Exod.</hi> 23.13. And <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e you make it a ſmall matter to forſake God, and make a God of the creature? Will you beleeve the <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ophet <hi>Amos,</hi> if you will, he ſaith (ſpeaking of them that ſwore by the ſinne of <hi>Samaria) that they ſha<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ll and never riſe againe, Amos</hi> 8.14. a terrible place to vaine ſwearers.</p>
+               <p>Neither are we to joyne any other with God in our oaths, for in ſo doing we make baſe Idols and filth<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eatures corrivals in honour, and competitors in the throne of juſtice with the Lord, who is Creator of <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaven and Earth, and the ſupreme Judge and ſole Monarch of all the world.</p>
+               <p>Or in caſe we doe, our doome ſhall be remedileſſe, for the Lord threatneth by the Prophet <hi>Zephan at he will cut off them that ſweare by the Lord, and by Maulcham:</hi> which <hi>Maulcham</hi> was their King or as ſome <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ink, their Idoll, <hi>Zeph.</hi> 1.4, 5.</p>
+               <p>But admit the ſinne were ſmall, as you would have it to be, yet the circumſtances make it moſt hainous; <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> even the leaſt ſinne in its owne nature is not onely mortall, but reſts unpardonable, ſo long as it is wil<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gly-committed, and excuſed or defended.</p>
+            </sp>
+            <sp>
+               <speaker>Swearer.</speaker>
+               <p>
+                  <hi>But all doe ſweare, except ſome few ſingular ones, and they alſo will lie, which is as bad.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <p>You muſt not meaſure all others by your owne buſhell, for although ill diſpoſitions cauſe i<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſpitions, even as the eye that is bloodſhed ſees all things red, or as they that have the Jaundees ſee a<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ings yellow; yet know that there be thouſands who can ſay truly, through Gods mercy, that they ha<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ther chuſe to have their ſouls paſſe from their bodies, then a wilfull premeditated lie, or a wicked oath <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>om their mouths; wherefore when you want experience, thinke the beſt, as charity bids you, and leave <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hat you know not to the ſearcher of hearts.</p>
+               <p>As for the number of ſwearers, it cannot be denied, but the ſinne is almoſt univerſall, and this is <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which hath incenſed Gods wrath, and almoſt brought an univerſall deſtruction upon our whole Na<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>on: But is not this excuſe, <hi>That others doe ſo?</hi> a moſt reaſonleſſe plea, and onely becomming a foole then our Saviour Chriſt hath plainly told us, that <hi>the greateſt number goe the broad way to deſtruction, and bi<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <pb n="3" facs="tcp:153031:2"/>a few <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> wickedneſſe,</hi> 1 <hi>John</hi> 5.19. And that <hi>the number of thoſe whom Satan ſhall deceive, is as the ſand of the ſea, Re<g ref="char:EOLhyphen"/>vel.</hi> 20.8. and 13.16. <hi>Iſay</hi> 10.22. <hi>Rom.</hi> 9.27. And tell me, were it a good plea to commit a felony, and ſay that others doe ſo? Or wilt thou leap into hell and caſt away thy ſoule, becauſe others doe ſo? A ſor<g ref="char:EOLhyphen"/>ry comfort it will be to have a numerous multitude accompany us into <hi>that lake of fire that never ſhall be quenched.</hi>
+               </p>
+               <p>Beſides, it is Gods expreſſe charge, <hi>Exod.</hi> 23.2. <hi>Thou ſhalt not follow a multitude to doe evill;</hi> and St. <hi>Pauls</hi> everlaſting rule, <hi>Rom.</hi> 12.2. <hi>Faſhion not your ſelves like unto this world.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Swearer.</speaker>
+               <p>
+                  <hi>But I may lawfully ſweare, ſo I affirme nothing but the truth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <p>If you be lawfully called to it as before a Magiſtrate, or when ſome urgent matter conſtrai<g ref="char:EOLhyphen"/>neth for the confirming of a neceſſary truth (which can by no other lawfull meanes be cleared) and for the ending of all contentions and controverſies, and clearing our owne or our neighbours good name, per<g ref="char:EOLhyphen"/>ſon, or eſtate, and to put an end unto all ſtrife, aiming at Gods glory, and our own or our neighbours good, which is the only uſe and end of an oath; in which caſe a man is rather a patient then a voluntary agent, You may ſweare, otherwiſe not.</p>
+               <p>Neither muſt we ſweare at all in our ordinary communication, if we will obey Gods Word, as you may ſee <hi>Matth.</hi> 5.34, 35, 36, 37. <hi>James</hi> 5.12.</p>
+            </sp>
+            <sp>
+               <speaker>Swearer.</speaker>
+               <p>
+                  <hi>Except I ſweare, men will not beleeve me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <p>Thou hadſt as good ſay, I have ſo often made ſhipwrack of my credit by accuſtomary ly<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng, that I can gaine no beleefe unto my word, without an oath; for it argues a guilty conſcience of the want of credit, and that our word alone is worth no reſpect, when it will not be taken without a pawne or ſurety. Neither will any but baſe banquerours pawne ſo precious a jewell as their faith, or offer better ſecurity for every ſmall trifle. Beſides, he that often ſweareth, not ſeldome forſweareth. And ſo I have informed you from Gods Word what the danger is of vaine and wicked ſwearing.</p>
+               <p>Now if you either beleeve the Scriptures, or deſire to eſcape that direfull ſentence, <hi>Depart from me ye curſed into everlaſting fire prepared for the Devill and his angels, Matth.</hi> 25.41. No longer excuſe nor de<g ref="char:EOLhyphen"/>fend it, but repent of it and forſake it; and ſo much the rather for that of all other ſinnes this ſinne of ſwearing is the moſt inexcuſable. Firſt, becauſe it is a ſinne from which of all other ſinnes we have moſt power of abſtinence, as I ſhewed you before; and the eaſier the thing commanded is, the greater guilt in the breach of it; and the lighter the injunction, the heavier the tranſgreſſion; as St. <hi>Auſtin</hi> ſpeaks, and <hi>Adam</hi> his eating the forbidden fruit ſufficiently proves. Secondly, becauſe it is a ſin, to which of all other ſins we have the feweſt temptations; for all thou canſt expect by it is the ſuſpition of a common lyer by being a common ſwearer; Or that thou ſhalt vexe others, and they ſhall hate thee; for it bringeth not ſo much as any appearance of good unto us to induce us: for whereas other ſins have their ſeverall baits to allure us, ſome the bait of profit, ſome of honour, ſome of pleaſure, this ſin is deſtitute of them all, and onely bringeth much loſſe here, namely of credit and a good conſcience; and the loſſe of Gods favour, and the Kingdome of Heaven hereafrer, which is of more value then ten thouſand worlds; which ſhews that thou loveſt this ſin onely becauſe it is a ſin, and ſweareſt out of meere malice and contempt of God, which is moſt fearfull; and (as a man would thinke) ſhould make it unpardonable. I am ſure the Pſalmiſt hath a tertible word for all ſuch, if they would take notice of it, <hi>Let them be confounded that tranſgreſſe without a cauſe, Pſal.</hi> 25.3.</p>
+               <p>And no marvell, that this fearfull imprecation ſhould fall from the Prophets mouth, for that man is bot<g ref="char:EOLhyphen"/>tomleſly ill who loves vice meerly becauſe it is a vice, and becauſe God moſt ſtrictly forbids it. He is a deſperate, prodigious, damnable wretch, who (rather then not die) will anger God on ſet purpoſe.</p>
+               <p>But as if ſwearing alone would not preſſe thee deep enough into hell, thou addeſt <hi>Curſing</hi> to it, a ſin of a<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> higher nature; which none uſe frequently, but ſuch as are deſperately wicked: it being their peculia<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> brand in Scripture, as how doth the Holy Ghoſt ſtigmatize ſuch an one? <hi>His mouth is full of curſing, Pſal</hi> 10. and <hi>Rom.</hi> 3.14. ot, <hi>He loveth curſing, Pſal.</hi> 109.17. and indeed, whom can you obſerve to love this ſin, or to have their mouthes full of curſing? but ruffaines, and <hi>ſons of Belial,</hi> ſuch as have ſhaken out of their heart the feare of God, the ſhame of men, the love of Heaven, the dread of Hell, not once caring what is though of ſpoken of them here or what becomes of them hereafter; yea, obſerve them well, and you will find that they are mockers of all that march not under the pay of the Devill.</p>
+               <p>And whence do theſe monſters of the earth, theſe helliſh miſcreants, theſe bodily and viſible devi<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> learne this their damnable curſing and ſwearing? are not <hi>their tongues fired</hi> and edged <hi>from hell,</hi> as Sain<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>James</hi> hath it, <hi>Jam.</hi> 3.6. yea, it is the very language of the damned, as you may ſee <hi>Revel.</hi> 16.11, 21. On<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> they learne it here before they come thither; and are ſuch proficients therein, that the Devill counts the<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> his beſt ſchollers, and ſets them in his higheſt forme, <hi>Pſal.</hi> 1.1. and well they deſerve it, with whum th<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> language of hell is ſo familiar, that blaſphemy is become their mother tongue. Beſides, it is rhe very dep<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of ſin, roaring and drinking is the horſe way to hell; whooring and cheating the foot way; but <hi>ſwearing</hi> and <hi>curſing</hi> follows <hi>Corah, Dathan,</hi> and <hi>Abiram.</hi> And certainly, if the infernall Tophet be not for theſe me it can challenge no gueſts. But ſee how witleſſe, graceleſſe, and ſhameleſſe, even the beſt are that uſe t<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:153031:3"/>curſe <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſaying, God damne me, confound me, the de<g ref="char:EOLhyphen"/>vill take me, and the like; which would make a rationall man tremble to name; becauſe I were as good knock at a dead mans grave, as ſpeak to them.</p>
+               <p>Thou art croſſed by ſome one, perhaps thy wiſe, childe, or ſervant; or elſe thy horſe, the weather, the <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ce, bow<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, or ſome other of the creatures diſpleaſe thee; and thou falleſt a curſing, and blaſpheming them, wiſhing the plague of God, or Gods vengeance to light on them, or ſome ſuch helliſh ſpeech falls from thy foule mouth. And ſo upon every fooliſh trifl<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, or every time thou art angry, God muſt be at thy beck, and come downe from Heaven in a I haſte, and become thine officer to revenge thy quarrell, and ſerve thy malicious humour. (O monſtrous impiety! O ſhameleſſe impudency! to be abhorred of all that heare <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t) not once taking notice what he commands in his Word, as, <hi>Bleſſe them that perſecute you, bleſſe, I ſay, and curſe not, Rom.</hi> 12 14. And againe, <hi>Bleſſe them that curſe you, and pray for them which hurt you, Luke</hi> 6.28. which is the practice of all true Chriſtians, 1 <hi>Cor.</hi> 4.12.</p>
+               <p>But this is not one halfe of thine offence, for whom doeſt thou curſe? Alas the creatures that diſpleaſe thee are but inſtruments, thy ſin is the cauſe, and God is the Author, 2 <hi>Sam.</hi> 16.11. <hi>Pſal.</hi> 39.9, 10. <hi>Gen.</hi> 45.8. <hi>Job</hi> 1.21. from whom thou haſt deſerved it, and ten thouſand times a greater croſſe. But in ſtead of look<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing up from the ſtone, to the hand which threw it; or from the effect, to the cauſe; as Gods people doe: thou like a maſtiffe dog ſetteſt upon the ſtone or weapon that hurts thee. But in this caſe who are you an<g ref="char:EOLhyphen"/>gry withall? Does your Horſe, the Dice, the Raine, or any other creature diſpleaſe you? alas, they are out ſervants, and if their maſter bid Smite, they muſt not forbeare; they may ſay truly what <hi>Rabſhakeh</hi> uſurped, <hi>Jſa.</hi> 36 10. <hi>Are we come without the Lord,</hi> and all that heare thee may ſay, as the Prophet did to <hi>Sena<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ha<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>b, 2 King.</hi> 19 22. <hi>Whom haſt thou blaſphemed? and againſt whom haſt thou exalted thy ſelfe? even <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gainſt <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he holy One of Iſrael.</hi>
+               </p>
+               <p>And what will be the iſſue? the cauſeleſſe curſe ſhall not come where the curſer meant it, <hi>Prov.</hi> 26.2. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ea though thou curſeſt, yet God will bleſſe, <hi>Pſal.</hi> 109.28. but thy curſes ſhall be ſure to rebound backe into thine owne breſt, <hi>Pſal.</hi> 7.14, 15, 16. <hi>Prov.</hi> 14.30. Curſing mouthes are like ill made Peeces, which while men diſcharge at others, recoile in ſplinters on their owne faces. Their words and wiſhes be but whirlwinds, which being breathen forth, returne againe to the ſame place. As heare how the Holy Ghoſt delivers it, <hi>Pſal.</hi> 109. <hi>As he loved curſing, ſo ſhall it come unto him; and as he loved not bleſſing, ſo ſhall it be far <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>om him. As he clothed himſelfe with curſing like a garment, ſo ſhall it come into his bowels like water, and like <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e into his bones; let it be unto him as a garment to cover him, and for a girdle wherewith he ſhall alwayes be <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rded, ver.</hi> 17, 18, 19. Heare this all ye, whoſe tongue run ſo faſt on the Devils errand, you loved cur<g ref="char:EOLhyphen"/>ing, you ſhall have it, both upon you, about you, and in you, and that everlaſtingly, if you perſevere and <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e on; for Chriſt himſelfe at the laſt day, even he which came to ſave the world, ſhall ſay unto all ſuch, <hi>epart from me ye curſed, into everlaſting fire, prepared for the Devill and his angels, Mat.</hi> 25.41. Where they <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>all doe nothing but curſe for evermore; for they no farther apprehending the goodneſſe, mercy, and <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ounty of God, then by the ſenſe of their owne torments, the effects of his juſtice ſhall hate him, and <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing him they ſhall curſe him, <hi>Revel.</hi> 16.11, 21. They ſuffer, and they blaſpheme, there is in them a <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rious malice againſt him, being curſed of him they recurſe him; they curſe him for making them, curſe <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>m for condemning them, curſe him becauſe being adjudged to death, they can never finde death; they <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſe his puniſhments, becauſe they are ſo unſufferable; curſe his mercies, becauſe they may never taſte <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>em; curſe the Blood of Chriſt ſhed on the Croſſe, becauſe it hath ſatisfied for millions, and done their beleeving ſoules no good; curſe the Angels and Saints in Heaven, becauſe they ſee them in joy and <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>emſelves in torment; Curſing; ſhall be their ſins, and their chiefe eaſe; Blaſphemies their Prayers, La<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mae their notes; Lamentation all their harmony; theſe ſhall be their evening ſongs, their morning <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gs, their mourning ſong; for ever and ever. And indeed, who ſhall goe to Hell, if curſers ſhould be <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t out. Wherefore let all thoſe learne to bleſſe, that looke to be heirs of the bleſſing.</p>
+               <p>Other objections follow in this conference, and are accordingly anſwered (with the meanes of cure <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſcribed, &amp;c.) in the ten inſuing pages, which are alſo printed for ſuch as think theſe foure over ſhort. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t being loth either to ſurfet or cloy the ſwearer, who is communly ſhort breath'd in well doing, and leaſt <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing more ſhould hinder him from reading this (for Satan and hir corrupt heart will not condiſcend ſhall hold cut to heare his beloved ſin ſo ſpoken againſt) it brakes off thus abruptly.</p>
+            </sp>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>YOu that feare God, or have any bowels of compaſſion towards the precious ſoules of thoſe poore igno<g ref="char:EOLhyphen"/>rant men, women, and children, whom you heare to ſweare and curſe as dogs bark; (that is not more <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>urſtnes then out of cuſtom;) wiſh them to reade theſe four pages, which I thought fit to print, even as, <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>und it in the beginning of a Manuſcript. And in caſe you perceive good come of it, give of them to <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ur friends and neighbours. <hi>At James Crumps,</hi> a Bookbinder in little <hi>Bartholomewes Well-yard,</hi> you may <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e as many gratis, as you ſhall be pleaſed to deſtribute. If you would paſte it on a wall, or Table, take <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of each lea<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, placing the pages thus 1. 2. 3. 4. paring away the margents.</p>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>John Downam</signed>
+            </closer>
+            <pb facs="tcp:153031:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
